@@ -51,11 +51,19 @@ sudo docker-compose stop
 
 
 http://0.0.0.0:8000/api/ - api проекта
+    
 http://0.0.0.0:8000/api/clients/ - клиенты
+    
 http://0.0.0.0:8000/api/mailings/ - рассылки
+    
 http://0.0.0.0:8000/api/mailings/fullinfo/ - общая статистика по всем рассылкам
+    
 http://0.0.0.0:8000/api/mailings//info/ - детальная статистика по конкретной рассылке
+    
 http://0.0.0.0:8000/api/messages/ - сообщения
+    
 http://0.0.0.0:8000/docs/ - docs проекта
+    
 http://0.0.0.0:8000/admin/ - админ панель сервиса
+    
 http://0.0.0.0:8000/admin/django-rq/ - панель управления рассылок
