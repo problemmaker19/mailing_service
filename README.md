@@ -1,5 +1,6 @@
 Сервис рассылок
 Разработан на django rest framework с django-rq и rq-scheduler
+
 Установка и запуск
 
     Склонировать репозиторий с Gitlab:
