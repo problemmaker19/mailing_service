@@ -1,4 +1,5 @@
-Сервис рассылок
+Сервис рассылок уведомлений
+
 Разработан на django rest framework с django-rq и rq-scheduler
 
 Установка и запуск
